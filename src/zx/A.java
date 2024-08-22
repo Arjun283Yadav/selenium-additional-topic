@@ -21,6 +21,7 @@ public class A {
 	
 	{
 		method1();
+	method1();
 	}
 	
 	public void method1() {
